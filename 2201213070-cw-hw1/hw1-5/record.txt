@@ -1,0 +1,51 @@
+=================================================================================
+
+L1 Normalization
+
+Epoch 1 Train Loss 0.31845 Train Acc 0.90665 Eval Loss 0.15678 Eval Acc 0.95445
+Epoch 2 Train Loss 0.13437 Train Acc 0.96088 Eval Loss 0.10944 Eval Acc 0.96687
+Epoch 3 Train Loss 0.09589 Train Acc 0.97137 Eval Loss 0.09743 Eval Acc 0.97017
+Epoch 4 Train Loss 0.07398 Train Acc 0.97797 Eval Loss 0.07961 Eval Acc 0.97467
+Epoch 5 Train Loss 0.05928 Train Acc 0.98224 Eval Loss 0.07588 Eval Acc 0.97518
+Epoch 6 Train Loss 0.04771 Train Acc 0.98608 Eval Loss 0.08389 Eval Acc 0.97307
+Epoch 7 Train Loss 0.04027 Train Acc 0.98828 Eval Loss 0.06942 Eval Acc 0.97768
+Epoch 8 Train Loss 0.03257 Train Acc 0.99081 Eval Loss 0.07023 Eval Acc 0.97838
+Epoch 9 Train Loss 0.02779 Train Acc 0.99248 Eval Loss 0.06529 Eval Acc 0.97888
+Epoch 10 Train Loss 0.02378 Train Acc 0.99376 Eval Loss 0.06822 Eval Acc 0.97718
+Epoch 11 Train Loss 0.01999 Train Acc 0.99508 Eval Loss 0.06251 Eval Acc 0.97978
+Epoch 12 Train Loss 0.01746 Train Acc 0.99585 Eval Loss 0.06005 Eval Acc 0.98188
+Epoch 13 Train Loss 0.01480 Train Acc 0.99695 Eval Loss 0.06030 Eval Acc 0.98088
+Epoch 14 Train Loss 0.01227 Train Acc 0.99783 Eval Loss 0.06339 Eval Acc 0.98048
+Epoch 15 Train Loss 0.01049 Train Acc 0.99850 Eval Loss 0.06529 Eval Acc 0.98078
+Epoch 16 Train Loss 0.00925 Train Acc 0.99885 Eval Loss 0.06003 Eval Acc 0.98168
+Epoch 17 Train Loss 0.00818 Train Acc 0.99900 Eval Loss 0.05959 Eval Acc 0.98168
+Epoch 18 Train Loss 0.00766 Train Acc 0.99905 Eval Loss 0.07010 Eval Acc 0.97928
+Epoch 19 Train Loss 0.00677 Train Acc 0.99933 Eval Loss 0.05794 Eval Acc 0.98368
+Epoch 20 Train Loss 0.00590 Train Acc 0.99947 Eval Loss 0.05971 Eval Acc 0.98248
+
+=================================================================================
+
+L2 Normalization:
+
+Epoch 1 Train Loss 0.39295 Train Acc 0.87950 Eval Loss 0.18698 Eval Acc 0.94294
+Epoch 2 Train Loss 0.13687 Train Acc 0.96005 Eval Loss 0.11046 Eval Acc 0.96587
+Epoch 3 Train Loss 0.09480 Train Acc 0.97183 Eval Loss 0.08982 Eval Acc 0.97187
+Epoch 4 Train Loss 0.07301 Train Acc 0.97817 Eval Loss 0.08154 Eval Acc 0.97518
+Epoch 5 Train Loss 0.05847 Train Acc 0.98294 Eval Loss 0.07802 Eval Acc 0.97688
+Epoch 6 Train Loss 0.04756 Train Acc 0.98619 Eval Loss 0.07159 Eval Acc 0.97758
+Epoch 7 Train Loss 0.03818 Train Acc 0.98911 Eval Loss 0.07193 Eval Acc 0.97698
+Epoch 8 Train Loss 0.03206 Train Acc 0.99091 Eval Loss 0.07100 Eval Acc 0.97808
+Epoch 9 Train Loss 0.02648 Train Acc 0.99323 Eval Loss 0.06728 Eval Acc 0.97878
+Epoch 10 Train Loss 0.02266 Train Acc 0.99408 Eval Loss 0.06844 Eval Acc 0.97778
+Epoch 11 Train Loss 0.01906 Train Acc 0.99556 Eval Loss 0.06324 Eval Acc 0.97888
+Epoch 12 Train Loss 0.01545 Train Acc 0.99651 Eval Loss 0.06435 Eval Acc 0.98058
+Epoch 13 Train Loss 0.01359 Train Acc 0.99722 Eval Loss 0.06395 Eval Acc 0.98028
+Epoch 14 Train Loss 0.01104 Train Acc 0.99812 Eval Loss 0.07080 Eval Acc 0.97898
+Epoch 15 Train Loss 0.01006 Train Acc 0.99853 Eval Loss 0.06465 Eval Acc 0.98078
+Epoch 16 Train Loss 0.00805 Train Acc 0.99915 Eval Loss 0.06210 Eval Acc 0.98098
+Epoch 17 Train Loss 0.00714 Train Acc 0.99930 Eval Loss 0.06310 Eval Acc 0.98018
+Epoch 18 Train Loss 0.00657 Train Acc 0.99942 Eval Loss 0.06253 Eval Acc 0.98068
+Epoch 19 Train Loss 0.00582 Train Acc 0.99958 Eval Loss 0.06271 Eval Acc 0.98038
+Epoch 20 Train Loss 0.00554 Train Acc 0.99968 Eval Loss 0.06400 Eval Acc 0.98008
+
+=================================================================================

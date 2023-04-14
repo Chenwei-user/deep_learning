@@ -1,0 +1,51 @@
+=================================================================================
+
+Linear LR Decay
+
+Epoch 1 Train Loss 0.73939 Train Acc 0.72497 Eval Loss 0.56933 Eval Acc 0.77477 LR 0.50000
+Epoch 2 Train Loss 0.42184 Train Acc 0.83848 Eval Loss 0.32286 Eval Acc 0.87628 LR 0.47500
+Epoch 3 Train Loss 0.17173 Train Acc 0.93762 Eval Loss 0.09613 Eval Acc 0.97127 LR 0.45000
+Epoch 4 Train Loss 0.05397 Train Acc 0.98316 Eval Loss 0.07069 Eval Acc 0.97818 LR 0.42500
+Epoch 5 Train Loss 0.03896 Train Acc 0.98804 Eval Loss 0.07106 Eval Acc 0.97928 LR 0.40000
+Epoch 6 Train Loss 0.02693 Train Acc 0.99191 Eval Loss 0.07531 Eval Acc 0.97748 LR 0.37500
+Epoch 7 Train Loss 0.01667 Train Acc 0.99493 Eval Loss 0.08485 Eval Acc 0.97698 LR 0.35000
+Epoch 8 Train Loss 0.01169 Train Acc 0.99660 Eval Loss 0.06515 Eval Acc 0.98208 LR 0.32500
+Epoch 9 Train Loss 0.00688 Train Acc 0.99837 Eval Loss 0.06789 Eval Acc 0.98228 LR 0.30000
+Epoch 10 Train Loss 0.00415 Train Acc 0.99918 Eval Loss 0.06466 Eval Acc 0.98288 LR 0.27500
+Epoch 11 Train Loss 0.00244 Train Acc 0.99963 Eval Loss 0.06688 Eval Acc 0.98278 LR 0.25000
+Epoch 12 Train Loss 0.00161 Train Acc 0.99982 Eval Loss 0.06661 Eval Acc 0.98288 LR 0.22500
+Epoch 13 Train Loss 0.00125 Train Acc 0.99990 Eval Loss 0.06742 Eval Acc 0.98268 LR 0.20000
+Epoch 14 Train Loss 0.00106 Train Acc 0.99992 Eval Loss 0.06881 Eval Acc 0.98298 LR 0.17500
+Epoch 15 Train Loss 0.00093 Train Acc 0.99995 Eval Loss 0.06949 Eval Acc 0.98318 LR 0.15000
+Epoch 16 Train Loss 0.00085 Train Acc 0.99995 Eval Loss 0.06989 Eval Acc 0.98348 LR 0.12500
+Epoch 17 Train Loss 0.00080 Train Acc 0.99995 Eval Loss 0.07016 Eval Acc 0.98348 LR 0.10000
+Epoch 18 Train Loss 0.00076 Train Acc 0.99995 Eval Loss 0.07050 Eval Acc 0.98318 LR 0.07500
+Epoch 19 Train Loss 0.00073 Train Acc 0.99995 Eval Loss 0.07087 Eval Acc 0.98338 LR 0.05000
+Epoch 20 Train Loss 0.00072 Train Acc 0.99995 Eval Loss 0.07085 Eval Acc 0.98358 LR 0.02500
+
+=================================================================================
+
+Cosine LR Decay
+
+Epoch 1 Train Loss 0.28796 Train Acc 0.90987 Eval Loss 0.14609 Eval Acc 0.95606 LR 0.50000
+Epoch 2 Train Loss 0.09568 Train Acc 0.97093 Eval Loss 0.08549 Eval Acc 0.97467 LR 0.49692
+Epoch 3 Train Loss 0.06293 Train Acc 0.97986 Eval Loss 0.07418 Eval Acc 0.97548 LR 0.48776
+Epoch 4 Train Loss 0.04692 Train Acc 0.98523 Eval Loss 0.09056 Eval Acc 0.97257 LR 0.47275
+Epoch 5 Train Loss 0.03160 Train Acc 0.98978 Eval Loss 0.06859 Eval Acc 0.97878 LR 0.45225
+Epoch 6 Train Loss 0.02380 Train Acc 0.99221 Eval Loss 0.06656 Eval Acc 0.98028 LR 0.42678
+Epoch 7 Train Loss 0.01408 Train Acc 0.99568 Eval Loss 0.06431 Eval Acc 0.98298 LR 0.39695
+Epoch 8 Train Loss 0.00967 Train Acc 0.99705 Eval Loss 0.07173 Eval Acc 0.98168 LR 0.36350
+Epoch 9 Train Loss 0.00434 Train Acc 0.99910 Eval Loss 0.07300 Eval Acc 0.98218 LR 0.32725
+Epoch 10 Train Loss 0.00228 Train Acc 0.99970 Eval Loss 0.06418 Eval Acc 0.98338 LR 0.28911
+Epoch 11 Train Loss 0.00136 Train Acc 0.99990 Eval Loss 0.06330 Eval Acc 0.98448 LR 0.25000
+Epoch 12 Train Loss 0.00102 Train Acc 0.99993 Eval Loss 0.06495 Eval Acc 0.98418 LR 0.21089
+Epoch 13 Train Loss 0.00086 Train Acc 0.99997 Eval Loss 0.06529 Eval Acc 0.98428 LR 0.17275
+Epoch 14 Train Loss 0.00078 Train Acc 0.99997 Eval Loss 0.06605 Eval Acc 0.98428 LR 0.13650
+Epoch 15 Train Loss 0.00073 Train Acc 0.99997 Eval Loss 0.06622 Eval Acc 0.98408 LR 0.10305
+Epoch 16 Train Loss 0.00070 Train Acc 0.99997 Eval Loss 0.06651 Eval Acc 0.98458 LR 0.07322
+Epoch 17 Train Loss 0.00067 Train Acc 0.99997 Eval Loss 0.06656 Eval Acc 0.98398 LR 0.04775
+Epoch 18 Train Loss 0.00066 Train Acc 0.99997 Eval Loss 0.06672 Eval Acc 0.98418 LR 0.02725
+Epoch 19 Train Loss 0.00065 Train Acc 0.99997 Eval Loss 0.06676 Eval Acc 0.98418 LR 0.01224
+Epoch 20 Train Loss 0.00065 Train Acc 0.99997 Eval Loss 0.06678 Eval Acc 0.98418 LR 0.00308
+
+=================================================================================

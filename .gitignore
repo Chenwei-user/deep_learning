@@ -1,0 +1,6 @@
+*.gz
+*.DS_Store
+*/__pycache__
+*/*/__pycache__
+*.zip
+如何上传至github.txt
